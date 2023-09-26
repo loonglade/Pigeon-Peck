@@ -21,7 +21,6 @@ class YouTubeNotifier(tk.Tk):
         self.queue = queue.Queue()
 
         self.title("Pigeon Peck")
-        self.iconbitmap('assets/images/icon.ico')
         self.geometry("1000x600")
         self.setup_widgets()
         self.center_window()
