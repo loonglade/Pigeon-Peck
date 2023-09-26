@@ -1,5 +1,0 @@
-- on linux, might need "sudo apt-get install libsndfile1"
-
-Now integrate the image in "assets/image/logo.png" as the app's logo beside its name in the window name. I also want to incorporate user agents (firefox) in my code so as to camouflage myself. thanks.
-
-A tiny app that let's notifies you of new youtube videos from channels you subscribe to without an account. It uses Selenium with a user_agent profile randomizer to fetch youtube channels data without the need for Youtube API.
