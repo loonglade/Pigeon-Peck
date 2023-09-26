@@ -19,3 +19,6 @@ Linux might need libsndfile1 installed:
 
 #### Warning
 This code has only been tested on Python 3.9.
+
+#### <img src="https://www.file-extensions.org/imgs/app-icon/128/10409/bitcoin-core-icon.png" width="20" height="20"> Donations </img>
+bitcoin:bc1q6nu6347k3n077sscjntk949namnulrrpshz4j4
