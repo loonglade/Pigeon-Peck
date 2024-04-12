@@ -11,7 +11,7 @@ It uses Selenium with a user_agent profile randomizer to fetch youtube channels 
     brew install python-tk
     git clone https://github.com/loonglade/Pigeon-Peck.git
     cd pigeon-peck
-    python3 -m venv venv
+    python3.12 -m venv venv
     source venv/bin/activate
     pip install -r requirements.txt
 
@@ -23,7 +23,7 @@ Linux might need libsndfile1 installed:
 
 #### Warning
 
-This code has only been tested on Python 3.9.
+This code has been tested on Python 3.9 and 3.12.
 
 #### <img src="https://www.file-extensions.org/imgs/app-icon/128/10409/bitcoin-core-icon.png" width="20" height="20"> Donations </img>
 
